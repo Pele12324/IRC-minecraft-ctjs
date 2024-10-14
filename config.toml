@@ -1,0 +1,6 @@
+
+[irc]
+	recipients = ""
+	irc_server = "ws://localhost:80"
+	toggle_irc = true
+

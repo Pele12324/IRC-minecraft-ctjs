@@ -1,0 +1,7 @@
+{
+  "name": "IRC",
+  "creator": "fork",
+  "version": "2.1.0",
+  "entry": "index.js",
+  "requires": ["Websocket", "Vigilance"]
+}
